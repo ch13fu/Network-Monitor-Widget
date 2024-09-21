@@ -2,8 +2,6 @@
 
 ![key log detected](./image.png)
 
-![main ui](./ui.png)
-
 A simple **Network Monitoring Widget** built with Python's `tkinter` and `psutil` for real-time system monitoring and security insights. The widget runs as an overlay window on your desktop, providing details about network activity, CPU and memory usage, and alerts for suspicious processes or connections.
 
 ## Features
